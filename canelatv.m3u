@@ -72,4 +72,4 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 #EXTINF:-1 tvg-id="tu-pop-favorito" tvg-name="tu-pop-favorito" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/tupopfavorito-16-9_0.jpg" group-title="Canales de Deporte & Música en Vivo" , TU POP FAVORITO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 #EXTINF:-1 tvg-id="regional-mx" tvg-name="regional-mx" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/GE8gFwkpG0Z_3KXmoqcAUI1EJwRp2YF5PiX0KFWcqHM_0.jpg" group-title="Canales de Deporte & Música en Vivo" , REGIONAL MX
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084 
